@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.exe
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.deps.json
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.runtimeconfig.json
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.dll
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\ref\BasicCorePrograms.dll
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.pdb
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.dll
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\ref\BasicCorePrograms.dll
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.pdb
+C:\Users\ELCOT\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.genruntimeconfig.cache
